@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Saidemy Student Registration!</h1>
-    <p>Please fillllll this fofffrm!!!</p>
+    <p>Please fil this fofffrm!!!</p>
     <hr>
     <br>
 
